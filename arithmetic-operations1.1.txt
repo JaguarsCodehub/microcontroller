@@ -1,4 +1,4 @@
-arg 0000H
+org 0000H
 mov r2, #09H;
 mov r3, #04H;
 mov a, r2;
